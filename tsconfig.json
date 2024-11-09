@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "noImplicitAny": true,
+       
+         
+    },
+        
+    "files": [
+       "./index.ts",
+        "./shapes.ts",
+       
+    ]
+}
+        
+       
